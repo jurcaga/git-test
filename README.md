@@ -1,5 +1,8 @@
 # Starter web project
 Adding a line for rebasing
+
+More changes for REBASING
+
 INTRO TEXT
 ## Introduction
 HELLO THIS IS A TEST README FILE
