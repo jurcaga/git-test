@@ -17,3 +17,4 @@ oo
 oooo
 
 COPYRIGHT!!!!!!!!
+ALL RIGHTS RESERVED!
